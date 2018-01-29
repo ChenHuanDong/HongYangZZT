@@ -161,6 +161,9 @@ public class LogUtil {
 
 
 
+
+
+
     public void e(String log, Throwable tr) {
         if (logFlag) {
             String line = getFunctionName();
